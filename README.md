@@ -1,0 +1,3 @@
+# VirtualTourism
+Description:
+	Consider preparing for a family tour. There will definitely be days of planning, hours of travelling and money spent in thousands. Consider another situation where you can’t travel to your dream locations or  just take this pandemic time where you can’t travel anywhere. Many suffered from depression, loneliness. Keeping this in mind, our aim is to remove all the constraints in tourism and make the tourism available to everyone and allow them to explore tourist spots all around the world. It can save money, reduce depression, and more importantly, saves our time. It can be a game changer if it could more naturally replicate the behavior of the real spot, we can make a tour from our home. 
